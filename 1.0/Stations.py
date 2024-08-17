@@ -6,7 +6,7 @@ from datetime import date
 import datetime
 
 # Konstanten für API-Parameter
-DB_CLIENT_ID = "9e6dcafbff6eee1b2248e777ae5f9828"
+DB_CLIENT_ID = "xxx"
 DB_API_KEY = "xxx"
 today = date.today()
 now = datetime.datetime.now()
